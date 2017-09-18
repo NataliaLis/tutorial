@@ -42,7 +42,7 @@ List trafia do urzędu pocztowego najbliżej Ciebie. Potem idzie do drugiego urz
 
 Tak, to takie proste. Wysyłasz wiadomości i oczekujesz jakiejś odpowiedzi. Oczywście, zamiast papieru i długopisu używasz bitów danych, ale koncepcja jest dokładnie taka sama!
 
-Zamiast adresów z nazwą ulicy, miastem, kodem pocztowym oraz nazwą kraju, używa się adresów IP. Twój komputer najpierw pyta serwera DNS (system nazw domenowych, ang. DNS - Domain Name System) o przetłumaczenie djangogirls.org na adres IP. Działa to podobnie do dawnych książek telefonicznych, w których mogłaś poszukać adresu czy numeru po nazwisku osoby, z którą chciałaś się skontaktować.
+Zamiast adresów z nazwą ulicy, miastem, kodem pocztowym oraz nazwą kraju, używa się adresów IP. Twój komputer najpierw pyta serwer DNS (system nazw domenowych, ang. DNS - Domain Name System) o przetłumaczenie djangogirls.org na adres IP. Działa to podobnie do dawnych książek telefonicznych, w których mogłaś poszukać adresu czy numeru po nazwisku osoby, z którą chciałaś się skontaktować.
 
 Listy muszą spełniać konkretne warunki, żeby zostały poprawnie doręczone: muszą posiadać adres, znaczek itd. Muszą być też napisane językiem zrozumiałym dla odbiorcy. To samo dotyczy *pakietów danych*, które wysyłasz, by zobaczyć jakąś stronę. Używany jest protokół HTTP (Hypertext Transfer Protocol).
 
